@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * Created by xwiam on 2017/11/23.
+ * @author xwiam on 2017/11/23.
  */
 public class Cache {
 
